@@ -2,4 +2,4 @@
  easy program to convert numbers to binary
 
 developed in C
-<Idolo_D>
+<IdoloD>
