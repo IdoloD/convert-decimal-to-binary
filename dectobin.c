@@ -4,7 +4,7 @@
 int main()
 {
    int i,n,k,vet[10];
-   printf ("INSERISCI UN NUMERO DA CONVERTIRE IN BINARIO\n");
+   printf ("ENTER A DECIMAL NUMBER TO CONVERT TO BINARY\n");
    scanf ("%d", &n);
    k = 0;
    while (n!=0) {
